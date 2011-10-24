@@ -1,14 +1,11 @@
-Symfony Standard Edition
+RumahFiqih.com
 ========================
 
-Welcome to the Symfony Standard Edition - a fully-functional Symfony2
-application that you can use as the skeleton for your new app. If you want
-to learn more about the features included, see the "What's Inside?" section.
+Welcome to RumahFiqih.com,  e-learning site build on Symfony2 Framework.
 
-This document contains information on how to download and start using Symfony.
-For a more detailed explanation, see the
-[Installation chapter](http://symfony.com/doc/current/book/installation.html)
-of the Symfony Documentation.
+This document contains information on how to download and start using RumahFiqih.com 
+Installation for RumahFiqih.com is refer to symfony2 installation, see the [Symfony2 Installation chapter]
+(http://symfony.com/doc/current/book/installation.html) of the Symfony Documentation.
 
 1) Download the Standard Edition
 --------------------------------
